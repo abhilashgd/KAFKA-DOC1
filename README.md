@@ -22,7 +22,8 @@ Fundamentals
         - Enrich Data
         - Filtering, Grouping, Aggregating, Joining and more
 
-        Kafka Streams JAVA API
+# Kafka Streams JAVA API
+
         - performs all data processing and puts it back to the topic so that consumers can consume
         
         //Kafka Topics - Producer - log - consumer
@@ -30,6 +31,8 @@ Fundamentals
         Replicated and partitioned,
         Durable - hours, days, years, forever
         Big or small
+
+# Commands 
 
         GET Started - https://kafka.apache.org/quickstart
         Kafka Download - https://www.apache.org/dyn/closer.cgi?path=/kafka/3.1.0/kafka_2.13-3.1.0.tgz
